@@ -1,3 +1,5 @@
 # repositorio-2
-##Repo en españo
+
+## Descripción
+
 Primer repo creado en español
